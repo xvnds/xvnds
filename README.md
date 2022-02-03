@@ -43,7 +43,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/xvnds">
-    <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=xvnds&theme=panda&show_icons=true" />
+    <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=xvnds&theme=panda&show_icons=true&count_private=true" />
   </a>
   <a href="https://github.com/xvnds">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xvnds&theme=panda&layout=compact" />

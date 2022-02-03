@@ -6,7 +6,7 @@
 <p align="center"><strong>tools and technologies</strong></p>
 <br/>
 
-<div style="text-align:center;">
+<p align="center">
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=white&color=b884a3)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=white&color=b884a3)
@@ -36,20 +36,20 @@
   ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-000?&logo=Adobe-Photoshop&logoColor=white&color=b884a3)
   ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-000?&logo=Adobe-XD&logoColor=white&color=b884a3)
 
-</div>
+</p>
 <br/>
 <hr/>
 <br/>
 <p align="center"><strong>✨ my github stats ✨</strong></p>
 <br/>
-<div style="text-align:center;">
+<p align="center">
   <a href="https://github.com/xvnds">
     <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=xvnds&theme=panda&show_icons=true" />
   </a>
   <a href="https://github.com/xvnds">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xvnds&theme=panda&layout=compact" />
   </a>
-</div>
+</p>
 <br/>
 <hr/>
 <p align="center"><img src="./kakampink.gif" width="180" rameBorder="0" class="giphy-embed" allowFullScreen></img></p>

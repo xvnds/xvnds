@@ -43,11 +43,11 @@
 <p align="center"><strong>✨ my github stats ✨</strong></p>
 <br/>
 <div style="text-align:center;">
-  <a href="https://github.com/xandyreyes">
-    <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=xandyreyes&theme=panda&show_icons=true" />
+  <a href="https://github.com/xvnds">
+    <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=xvnds&theme=panda&show_icons=true" />
   </a>
-  <a href="https://github.com/xandyreyes">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xandyreyes&theme=panda&layout=compact" />
+  <a href="https://github.com/xvnds">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xvnds&theme=panda&layout=compact" />
   </a>
 </div>
 <br/>

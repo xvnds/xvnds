@@ -51,5 +51,4 @@
 </p>
 <br/>
 <hr/>
-<p align="center"><img src="./kakampink.gif" width="180" rameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <p align="center"><strong>ps: i also take <a href="https://www.lomography.com/homes/xandyuck" style="color:#b884a3;">photos</a> :)</strong></p>

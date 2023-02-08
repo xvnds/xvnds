@@ -6,7 +6,7 @@
 <p align="center"><strong>tools and technologies</strong></p>
 <br/>
 
-<p align="center">
+<p align="center" style="max-width:300px;">
   <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=white&color=b884a3" alt="js" />
   <img src="https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=white&color=b884a3" alt="js" />
   <img src="https://img.shields.io/badge/-React-000?&logo=React&logoColor=white&color=b884a3" alt="js" />

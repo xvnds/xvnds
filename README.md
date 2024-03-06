@@ -1,38 +1,16 @@
-<h1 align="center">hellooooo, i'm xandy ✨</h1><br/>
-<strong><p align="center">i'm a computer and software engineer based in manila, philippines  (◡‿◡🌸)</p></strong>
-<p align="center"><img src="./kuromi.gif" width="180" rameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<hr/>
-<br/>
-<p align="center"><strong>tools and technologies</strong></p>
-<br/>
+# 💫 About Me:
+I'm a software engineer based in Manila, Philippines. I have a degree in Computer Engineering from Pamantasan ng Lungsod ng Maynila (University of the City of Manila).<br><br>👩‍💻 6 years of programming<br>👩‍🎨 Enjoys UI/UX design<br>📸 Street photography enthusiast<br>🏎️ Formula 1 fan 🔴🐂<br>⚽️ Bianconeri<br>🎹 I play the piano sometimes
 
-<p align="center" style="max-width:300px;">
-  <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=white&color=b884a3" alt="js" />
-  <img src="https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=white&color=b884a3" alt="js" />
-  <img src="https://img.shields.io/badge/-React-000?&logo=React&logoColor=white&color=b884a3" alt="js" />
-  <img src="https://img.shields.io/badge/-React_Native-000?&logo=React&logoColor=white&color=b884a3" alt="js" />
-  <img src="https://img.shields.io/badge/-Node.js-000?&logo=Node.js&logoColor=white&color=b884a3" alt="js" />
-  <img src="https://img.shields.io/badge/-Next.js-000?&logo=Next.js&logoColor=white&color=b884a3" alt="js" />
-  <img src="https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB&logoColor=white&color=b884a3" alt="js" />
-  <img src="https://img.shields.io/badge/-Sass-000?&logo=Sass&logoColor=white&color=b884a3" alt="js" />
-  <img src="https://img.shields.io/badge/-Bulma-000?&logo=Bulma&logoColor=white&color=b884a3" alt="js" />
-  <img src="https://img.shields.io/badge/-Figma-000?&logo=Figma&logoColor=white&color=b884a3" alt="js" />
-  <img src="https://img.shields.io/badge/-Adobe_Photoshop-000?&logo=Adobe-Photoshop&logoColor=white&color=b884a3" alt="js" />
-  <img src="https://img.shields.io/badge/-Adobe_XD-000?&logo=Adobe-XD&logoColor=white&color=b884a3" alt="js" />
-</p>
-<br/>
-<hr/>
-<br/>
-<p align="center"><strong>✨ my github stats ✨</strong></p>
-<br/>
-<p align="center">
-  <a href="https://github.com/xvnds">
-    <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=xvnds&theme=panda&show_icons=true&count_private=true" />
-  </a>
-  <a href="https://github.com/xvnds">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xvnds&theme=panda&layout=compact" />
-  </a>
-</p>
-<br/>
-<hr/>
-<p align="center"><strong>ps: i also take <a href="https://www.lomography.com/homes/xandyuck" style="color:#b884a3;">photos</a> :)</strong></p>
+<strong>[Save the bees 🐝](https://savethebees.com/)</strong>
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xands1122) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/xandsreyes) 
+
+# 💻 Tech Stack:
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=xvnds&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=xvnds&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xvnds&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

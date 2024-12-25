@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a software engineer based in Manila, Philippines. I have a degree in Computer Engineering from Pamantasan ng Lungsod ng Maynila (University of the City of Manila).<br><br>👩‍💻 6 years of programming<br>👩‍🎨 Enjoys UI/UX design<br>📸 Street photography enthusiast<br>🏎️ Formula 1 fan 🔴🐂<br>⚽️ Bianconeri<br>🎹 I play the piano sometimes
+I'm a software engineer based in Manila, Philippines. I have a degree in Computer Engineering from Pamantasan ng Lungsod ng Maynila (University of the City of Manila).<br><br>👩‍💻 6 years of programming<br>👩‍🎨 Enjoys UI/UX design<br>📸 Street photography enthusiast<br>🏎️ Formula 1 fan 🔴🐂<br>🎹 I play the piano sometimes
 
 <strong>[Save the bees 🐝](https://savethebees.com/)</strong>
 
